@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there Folks 👋I am [Arunoday Kumar](https://siddharth25pandey.github.io)
 
 <!--
 **nirala69/nirala69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=nirala69.nirala69)
