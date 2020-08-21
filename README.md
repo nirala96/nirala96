@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-<a href="" alt="Happy" ><img width="135px" align="right" src="happy.png"></a>
+
 <br/>
 ### Languages and Tools:
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <br/>
 
 
-
+<a href="" alt="Happy" ><img width="135px" align="right" src="happy.png"></a>
 
 ![Arunoday's github stats](https://github-readme-stats.vercel.app/api?username=nirala69&show_icons=true&theme=radical)
 <br/>
