@@ -1,4 +1,5 @@
 ### Hi there Folks 👋I am [Arunoday Kumar](https://nirala69.github.io/sample/)
+<br/>
 <hr>
 
 <img src="AmazingImpishGerenuk-size_restricted.gif" width="300" align='right'>
@@ -12,9 +13,11 @@ Here are some ideas to get you started:
 - 💬 I you have anything to Ask me about ...please please please don't ask me.
 - ⚡ Fun fact: I was a bright student once..
 
-<br>
-<a href="" alt="Happy"><img width="135px" align='right' src="happy.png"></a>
+<br/>
+<br/>
 
+<a href="" alt="Happy"><img width="135px" align='right' src="happy.png"></a>
+<br/>
 ### Languages and Tools:
 
 <p align="left">
@@ -23,13 +26,15 @@ Here are some ideas to get you started:
     <a href="" alt="Instagram"><img width="25px" src="instagram.png"></a>
     <a href="" alt="GitHub"><img width="25px" src="github.png"></a>
    
-
   </p>
+  <br/>
 
 
 
 
 ![Arunoday's github stats](https://github-readme-stats.vercel.app/api?username=nirala69&show_icons=true&theme=radical)
+<br/>
+<br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nirala69)
 <br>
@@ -43,10 +48,14 @@ Here are some ideas to get you started:
    
 
   </p>
-  
+  <br/>
+  <br/>
 
 <hr>
+<br/>
 
 ![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=nirala69.nirala69)
+<br/>
+<hr>
 
 
