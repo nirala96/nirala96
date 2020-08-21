@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <br/>
-### Languages and Tools:
+ ### Languages and Tools:
 
 <p align="left">
     <a href="" alt="Twitter"><img width="25px" src="twitter.png"></a>
