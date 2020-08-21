@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 ![Arunoday's github stats](https://github-readme-stats.vercel.app/api?username=nirala69&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nirala69&layout=compact)]
+
 ![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=nirala69.nirala69)
