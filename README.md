@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-<a href="" alt="Happy"><img width="135px" align='right' src="happy.png"></a>
+<a href="" alt="Happy"><img width="135px" align='center' src="happy.png"></a>
 <br/>
 ### Languages and Tools:
 
@@ -41,21 +41,21 @@ Here are some ideas to get you started:
 <hr>
 <br>
 <p align="center">
-    <a href="" alt="Twitter"><img width="35px" src="twitter.png"></a>
-    <a href="" alt="Linkedin"><img width="35px" src="linkedin.png"></a>
+    <a href="" alt="Twitter"><img width="35px" padding-right= "30px"src="twitter.png"></a>
+    <a href="" alt="Linkedin"><img width="35px" padding-right= "30px" src="linkedin.png"></a>
     <a href="" alt="Instagram"><img width="35px" src="instagram.png"></a>
     <a href="" alt="GitHub"><img width="35px" src="github.png"></a>
    
 
   </p>
-  <br/>
+  
   <br/>
 
 <hr>
 <br/>
 
 ![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=nirala69.nirala69)
-<br/>
+
 <hr>
 
 
