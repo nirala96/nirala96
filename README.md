@@ -1,6 +1,7 @@
 ### Hi there Folks 👋I am [Arunoday Kumar](https://nirala69.github.io/sample/)
 <hr>
 
+<img src="image_processing20191002-1829-q6jsmk.gif" width="250" align='right'>
 
 Here are some ideas to get you started:
 - 😄 lowest fragger in milimilitia , CSGO and CPI
