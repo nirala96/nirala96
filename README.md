@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I was a bright student once..
 
 <br>
-<a href="" alt="Twitter"><img width="135px" src="twitter.png"></a>
+<a href="" alt="Happy"><img width="135px" align='right' src="happy.png"></a>
 
 ### Languages and Tools:
 
