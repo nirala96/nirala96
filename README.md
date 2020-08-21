@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ![Arunoday's github stats](https://github-readme-stats.vercel.app/api?username=nirala69&show_icons=true&theme=radical)
 <br/>
 <br/>
-<img src="70804f7e25b11f29db904f2fa7b4cd9d.gif" width="300" align='right'>
+<img src="70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nirala69)
 <br>
 <hr>
