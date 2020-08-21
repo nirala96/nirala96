@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <br/>
- ## ⚡ Technologies
+## ⚡ Technologies
 
 <p align="left">
     <a href="" alt="Twitter"><img width="25px" src="twitter.png"></a>
