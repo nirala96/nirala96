@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Arunoday's github stats](https://github-readme-stats.vercel.app/api?username=nirala69&show_icons=true&theme=radical)
+
 ![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=nirala69.nirala69)
