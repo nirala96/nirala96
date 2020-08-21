@@ -2,20 +2,20 @@
 <hr>
 
 
-<!--
-**nirala69/nirala69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 😄 lowest fragger in milimilitia , CSGO and CPI
+- 🔭 I’m currently working on nothing.
+- 🌱 I’m currently learning how to learn
+- 👯 I’m looking to my start data science like every other thing which i started and left unfinished 
+- 🥅 2020 Goals: Start contributing in Open source projects (peer pressure)
+- 💬 I you have anything to Ask me about ...please please please don't ask me.
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
+<hr>
+
+<hr>
 - ⚡ Fun fact: ...
--->
+
 
 ![Arunoday's github stats](https://github-readme-stats.vercel.app/api?username=nirala69&show_icons=true&theme=radical)
 
