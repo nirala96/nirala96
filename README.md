@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-<a href="" alt="Happy" ><img width="135px" align="right"src="happy.png"></a>
+<a href="" alt="Happy" ><img width="135px" align="right" src="happy.png"></a>
 <br/>
 ### Languages and Tools:
 
