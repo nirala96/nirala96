@@ -12,6 +12,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 
 <hr>
+<p align="center">
+    <a href="" alt="Twitter"><img src="twitter.png"></a>
+    <a href="" alt="Linkedin"><img src="linkedin.png"></a>
+    <a href="" alt="Instagram"><img src="instagram.png"></a>
+    <a href="" alt="GitHub"><img src="github.png"></a>
+   
+
+  </p>
 
 <hr>
 - ⚡ Fun fact: ...
