@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <p align="center">
     <a href="" alt="Twitter"><img width="35px" src="twitter.png"></a>
     <a href="" alt="Linkedin"><img width="35px" src="linkedin.png"></a>
-    <a href="" alt="Instagram"><img width="35px" src="instagram.png"></a>
+    <a href="" alt="Instagram"><img width="35px" src="https://github.com/nirala69/nirala69/blob/master/instagram.png?raw=true"></a>
     <a href="" alt="GitHub"><img width="35px" src="github.png"></a>
 </p>
   
