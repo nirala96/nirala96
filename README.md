@@ -2,7 +2,7 @@
 <br/>
 <hr>
 
-<img src="https://github.com/nirala69/nirala69/AmazingImpishGerenuk-size_restricted.gif" width="300" align='right'>
+<img src="https://github.com/nirala69/nirala69/AmazingImpishGerenuk-size_restricted.gif?raw=true" width="300" align='right'>
 
 Here are some ideas to get you started:
 - 😄 lowest fragger in milimilitia , CSGO and CPI
