@@ -31,12 +31,12 @@ Here are some ideas to get you started:
   <br/>
 
 
-<a href="" alt="Happy" ><img width="135px" align="right" src="happy.png"></a>
+<a href="" alt="Happy" ><img width="135px" align="right" src="https://github.com/nirala69/nirala69/blob/master/happy.png"></a>
 
 ![Arunoday's github stats](https://github-readme-stats.vercel.app/api?username=nirala69&show_icons=true&theme=radical)
 <br/>
 <br/>
-<img src="70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
+<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nirala69)
 <br>
 <hr>
