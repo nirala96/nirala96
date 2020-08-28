@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning how to learn
 - 👯 I’m looking to my start data science like every other thing which i started and left unfinished 
 - 🥅 2020 Goals: Start contributing in Open source projects (peer pressure)
-- 💬 I you have anything to Ask me about ...please please please don't ask me.
+- 💬 If you have anything to Ask me about ...please please please don't ask me.
 - ⚡ Fun fact: I was a bright student once..
 
 <br/>
