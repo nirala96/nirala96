@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-## ⚡ Technologies
+## ⚡ Technologies<img src="https://cdn-5e74a325f911c80ca0fe3f0d.closte.com/wp-content/uploads/2020/04/digital-marketing-london-4-1.gif" width="50">
 
 <p align="left">
     <a href="" alt="Twitter"><img width="25px" src="twitter.png"></a>
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   
 <br/>
 
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=nirala69.nirala69)
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=nirala69.nirala69)<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 <hr>
 
