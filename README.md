@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   
 <br/>
 
-![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=nirala69.nirala69)
+![Hits](https://visitor-badge.laobi.icu/badge?page_id=nirala69.nirala69)
 
 <hr>
 
