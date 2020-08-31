@@ -1,4 +1,4 @@
-### Hi there Folks 👋 Kaisan baa, I am [Arunoday Kumar](https://nirala69.github.io/sample/)
+### Hi there Folks 👋 Kaisan baa, I am [Arunoday Kumar](https://nirala69.github.io/sample/)<img src="https://media2.giphy.com/media/KB8MHRUq55wjXVwWyl/source.gif" width="50">
 <br/>
 <hr>
 
