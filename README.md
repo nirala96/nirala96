@@ -22,12 +22,14 @@ Here are some ideas to get you started:
 ## ⚡ !(Learning)<img src="https://cdn-5e74a325f911c80ca0fe3f0d.closte.com/wp-content/uploads/2020/04/digital-marketing-london-4-1.gif" width="50">
 
 <p align="left">
+    
 - Web dev:
-    <a href="" alt="HTML"><img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HTML5_logo_resized.svg/1200px-HTML5_logo_resized.svg.png"></a>
+    <a href="" alt="HTML"><img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HTML5_logo_resized.svg/1200px-HTML5_logo_resized.svg.png"></a>
     <a href="" alt="CSS"><img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"></a>
-    <a href="" alt="React"><img width="25px" src="https://cdn.worldvectorlogo.com/logos/react.svg"></a>
+    <a href="" alt="React"><img width="50px" src="https://cdn.worldvectorlogo.com/logos/react.svg"></a>
+    
 - Programming Languages: 
-    <a href="" alt="C"><img width="100px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></a>
+    <a href="" alt="C"><img width="10px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></a>
     <a href="" alt="Java"><img width="100px" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png"></a>
     <a href="" alt="GitHub"><img width="100px" src="https://www.python.org/static/community_logos/python-logo-inkscape.svg"></a>
 
