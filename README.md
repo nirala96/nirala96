@@ -19,13 +19,24 @@ Here are some ideas to get you started:
 
 <br/>
 
-## ⚡ Technologies<img src="https://cdn-5e74a325f911c80ca0fe3f0d.closte.com/wp-content/uploads/2020/04/digital-marketing-london-4-1.gif" width="50">
+## ⚡ !(Learning)<img src="https://cdn-5e74a325f911c80ca0fe3f0d.closte.com/wp-content/uploads/2020/04/digital-marketing-london-4-1.gif" width="50">
 
 <p align="left">
-    <a href="" alt="Twitter"><img width="25px" src="https://www.flaticon.com/svg/static/icons/svg/732/732212.svg"></a>
-    <a href="" alt="Linkedin"><img width="25px" src="linkedin.png"></a>
-    <a href="" alt="Instagram"><img width="25px" src="https://www.vhv.rs/dpng/d/590-5903330_reactjs-logo-react-js-transparent-icon-hd-png.png"></a>
-    <a href="" alt="GitHub"><img width="25px" src="https://github.com/nirala69/nirala69/blob/master/github.png"></a>
+    - Web dev:  <a href="" alt="Twitter"><img width="25px" src="https://www.flaticon.com/svg/static/icons/svg/732/732212.svg"></a>
+    <a href="" alt="Linkedin"><img width="25px" src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg"></a>
+    <a href="" alt="Instagram"><img width="25px" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg"></a>
+    <a href="" alt="GitHub"><img width="25px" src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg"></a>
+    <a href="" alt="GitHub"><img width="25px" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822899.svg"></a>
+    <a href="" alt="GitHub"><img width="25px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111288.svg"></a>
+    <a href="" alt="GitHub"><img width="25px" src="https://iconape.com/wp-content/files/yb/61798/png/flutter-logo.png"></a>
+    - Data Science - <a href="" alt="GitHub"><img width="25px" src="https://matplotlib.org/3.2.1/_static/logo2_compressed.svg"></a>
+    <a href="" alt="GitHub"><img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"></a>
+    <a href="" alt="GitHub"><img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/775px-NumPy_logo.svg.png"></a>
+    - Mobile dev:
+    <a href="" alt="GitHub"><img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png"></a>
+    <a href="" alt="GitHub"><img width="25px" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822899.svg"></a>
+    <a href="" alt="GitHub"><img width="25px" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822899.svg"></a>
+    <a href="" alt="GitHub"><img width="25px" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822899.svg"></a>
    
   </p>
   <br/>
