@@ -22,21 +22,25 @@ Here are some ideas to get you started:
 ## ⚡ !(Learning)<img src="https://cdn-5e74a325f911c80ca0fe3f0d.closte.com/wp-content/uploads/2020/04/digital-marketing-london-4-1.gif" width="50">
 
 <p align="left">
-    - Web dev:  <a href="" alt="Twitter"><img width="25px" src="https://www.flaticon.com/svg/static/icons/svg/732/732212.svg"></a>
-    <a href="" alt="Linkedin"><img width="25px" src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg"></a>
-    <a href="" alt="Instagram"><img width="25px" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg"></a>
-    <a href="" alt="GitHub"><img width="25px" src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg"></a>
-    <a href="" alt="GitHub"><img width="25px" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822899.svg"></a>
-    <a href="" alt="GitHub"><img width="25px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111288.svg"></a>
-    <a href="" alt="GitHub"><img width="25px" src="https://iconape.com/wp-content/files/yb/61798/png/flutter-logo.png"></a>
-    - Data Science - <a href="" alt="GitHub"><img width="25px" src="https://matplotlib.org/3.2.1/_static/logo2_compressed.svg"></a>
-    <a href="" alt="GitHub"><img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"></a>
-    <a href="" alt="GitHub"><img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/775px-NumPy_logo.svg.png"></a>
-    - Mobile dev:
-    <a href="" alt="GitHub"><img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png"></a>
-    <a href="" alt="GitHub"><img width="25px" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822899.svg"></a>
-    <a href="" alt="GitHub"><img width="25px" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822899.svg"></a>
-    <a href="" alt="GitHub"><img width="25px" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822899.svg"></a>
+- Web dev:
+    <a href="" alt="HTML"><img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HTML5_logo_resized.svg/1200px-HTML5_logo_resized.svg.png"></a>
+    <a href="" alt="CSS"><img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"></a>
+    <a href="" alt="React"><img width="25px" src="https://cdn.worldvectorlogo.com/logos/react.svg"></a>
+- Programming Languages: 
+    <a href="" alt="C"><img width="100px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></a>
+    <a href="" alt="Java"><img width="100px" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png"></a>
+    <a href="" alt="GitHub"><img width="100px" src="https://www.python.org/static/community_logos/python-logo-inkscape.svg"></a>
+
+    
+    
+- Data Science:
+    <a href="" alt="GitHub"><img width="100px" src="https://matplotlib.org/3.2.1/_static/logo2_compressed.svg"></a>
+    <a href="" alt="GitHub"><img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"></a>
+    <a href="" alt="GitHub"><img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/775px-NumPy_logo.svg.png"></a>
+   
+- Android dev:
+    <a href="" alt="GitHub"><img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png"></a>
+    
    
   </p>
   <br/>
