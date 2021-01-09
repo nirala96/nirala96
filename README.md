@@ -29,9 +29,9 @@ Here are some ideas to get you started:
     <a href="" alt="React"><img width="25px" src="https://cdn.worldvectorlogo.com/logos/react.svg"></a>
     
 - Programming Languages: 
-    <a href="" alt="C"><img width="25px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></a>
-    <a href="" alt="Java"><img width="25px" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png"></a>
-    <a href="" alt="GitHub"><img width="25px" src="https://www.python.org/static/community_logos/python-logo-inkscape.svg"></a>
+    <a href="" alt="C"><img width="35px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></a>
+    <a href="" alt="Java"><img width="80px" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png"></a>
+    <a href="" alt="GitHub"><img width="80px" src="https://www.python.org/static/community_logos/python-logo-inkscape.svg"></a>
 
     
     
