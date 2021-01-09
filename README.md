@@ -59,10 +59,9 @@ Here are some ideas to get you started:
 <hr>
 <br>
 <p align="center">
-    <a href="" alt="Twitter"><img width="35px" src="twitter.png"></a>
-    <a href="" alt="Linkedin"><img width="35px" src="linkedin.png"></a>
-    <a href="" alt="Instagram"><img width="35px" src="https://github.com/nirala69/nirala69/blob/master/instagram.png?raw=true"></a>
-    <a href="" alt="GitHub"><img width="35px" src="https://github.com/nirala69/nirala69/blob/master/github.png"></a>
+    <a href="https://drive.google.com/file/d/1bVulZCLqBCx1_bE9Sj_uLMkFhvDpKeT4/view?usp=sharing   " alt="resume"><img width="35px" src="https://cdn2.iconfinder.com/data/icons/business-management-and-teamwork-filled-color/300/163251747Untitled-3-512.png"></a>
+    <a href="ttps://www.linkedin.com/in/ArunodayKumar/ " alt="Linkedin"><img width="35px" src="linkedin.png"></a>
+    <a href="https://nirala69.github.io/Portfolio/" alt="Portfolio"><img width="35px" src="https://www.a2solutions.ae/wp-content/uploads/2015/10/portfolio.png"></a>
 </p>
   
 <br/>
