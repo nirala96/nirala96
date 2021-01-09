@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 <p align="center">
     <a href="https://drive.google.com/file/d/1bVulZCLqBCx1_bE9Sj_uLMkFhvDpKeT4/view?usp=sharing   " alt="resume"><img width="35px" src="https://cdn2.iconfinder.com/data/icons/business-management-and-teamwork-filled-color/300/163251747Untitled-3-512.png"></a>
     <a href="ttps://www.linkedin.com/in/ArunodayKumar/ " alt="Linkedin"><img width="35px" src="linkedin.png"></a>
-    <a href="https://nirala69.github.io/Portfolio/" alt="Portfolio"><img width="35px" src="https://www.a2solutions.ae/wp-content/uploads/2015/10/portfolio.png"></a>
+    <a href="https://nirala69.github.io/Portfolio/" alt="Portfolio"><img width="100px" src="https://www.a2solutions.ae/wp-content/uploads/2015/10/portfolio.png"></a>
 </p>
   
 <br/>
