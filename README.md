@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - Web dev:
     <a href="" alt="HTML"><img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HTML5_logo_resized.svg/1200px-HTML5_logo_resized.svg.png"></a>
     <a href="" alt="CSS"><img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"></a>
-    /*<a href="" alt="React"><img width="35px" src="https://cdn.worldvectorlogo.com/logos/react.svg"></a>*/
+    <!--<a href="" alt="React"><img width="35px" src="https://cdn.worldvectorlogo.com/logos/react.svg"></a>-->
     
 - Programming Languages: 
     <a href="" alt="C"><img width="35px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></a>
@@ -35,13 +35,13 @@ Here are some ideas to get you started:
 
     
     
-/*- Data Science:
+<!--- Data Science:
     <a href="" alt="GitHub"><img width="100px" src="https://matplotlib.org/3.2.1/_static/logo2_compressed.svg"></a>
     <a href="" alt="GitHub"><img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"></a>
-    <a href="" alt="GitHub"><img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/775px-NumPy_logo.svg.png"></a>
+    <a href="" alt="GitHub"><img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/775px-NumPy_logo.svg.png"></a>-->
    
-- Android dev:
-    <a href="" alt="GitHub"><img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png"></a>*/
+<!--- Android dev:
+    <a href="" alt="GitHub"><img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png"></a>-->
     
    
   </p>
