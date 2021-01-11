@@ -1,4 +1,4 @@
-### Hi there Folks 👋 Kaisan baa, I am [Arunoday Kumar](https://nirala69.github.io/sample/)<img src="https://media2.giphy.com/media/KB8MHRUq55wjXVwWyl/source.gif" width="50">
+### Hi there Folks 👋 Kaisan baa, I am [Arunoday Kumar](https://nirala96.github.io/sample/)<img src="https://media2.giphy.com/media/KB8MHRUq55wjXVwWyl/source.gif" width="50">
 <br/>
 <hr>
 
@@ -48,18 +48,18 @@ Here are some ideas to get you started:
   <br/>
 
 
-<a href="" alt="Happy" ><img width="135px" align="right" src="https://github.com/nirala69/nirala69/blob/master/happy.png"></a>
+<a href="" alt="Happy" ><img width="135px" align="right" src="https://github.com/nirala96/nirala96/blob/master/happy.png"></a>
 
-![Arunoday's github stats](https://github-readme-stats.vercel.app/api?username=nirala69&show_icons=true&theme=radical)
+![Arunoday's github stats](https://github-readme-stats.vercel.app/api?username=nirala96&show_icons=true&theme=radical)
 <br/>
 <br/>
 <img src="bat.gif" width="350" align='right'>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nirala69)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nirala96)
 <br>
 <hr>
 <br>
 <p align="center">
-    <a href="https://nirala69.github.io/Portfolio/" alt="Portfolio"><img width="120px" src="https://www.a2solutions.ae/wp-content/uploads/2015/10/portfolio.png"></a>
+    <a href="https://nirala96.github.io/Portfolio/" alt="Portfolio"><img width="120px" src="https://www.a2solutions.ae/wp-content/uploads/2015/10/portfolio.png"></a>
     <a href="ttps://www.linkedin.com/in/ArunodayKumar/ " alt="Linkedin"><img width="35px" src="linkedin.png"></a>
     <a href="https://drive.google.com/file/d/1bVulZCLqBCx1_bE9Sj_uLMkFhvDpKeT4/view?usp=sharing   " alt="resume"><img width="35px" src="https://cdn2.iconfinder.com/data/icons/business-management-and-teamwork-filled-color/300/163251747Untitled-3-512.png"></a>
     
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
   
 <br/>
 
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=nirala69.nirala69)<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=nirala96.nirala96)<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 <hr>
 
