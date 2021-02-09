@@ -1,17 +1,17 @@
-### Hi there Folks 👋 Kaisan baa, I am [Arunoday Kumar](https://nirala96.github.io/sample/)<img src="https://media2.giphy.com/media/KB8MHRUq55wjXVwWyl/source.gif" width="50">
+### Hi there Folks 👋 Kaisan baa, I am [Arunoday Kumar](https://arunodaykumar.me)<img src="https://media2.giphy.com/media/KB8MHRUq55wjXVwWyl/source.gif" width="50">
 <br/>
 <hr>
 
 <img src="hii.gif" width="300" align='right'>
 
 Here are some ideas to get you started:
-- 😄 lowest fragger in milimilitia , CSGO and CPI
-- 🔭 I’m currently working on nothing.
-- 🌱 I’m currently learning how to learn
-- 👯 I’m looking to my start data science like every other thing which i started and left unfinished 
+
+- 🔭 I’m currently working on Data Sciece Projects.
+- 🌱 I’m currently learning Data science and Flutter.
+- 👯 I’m looking forward to collaborate on Projects
 - 🥅 2020 Goals: Start contributing in Open source projects (peer pressure)
-- 💬 If you have anything to Ask me about ...please please please don't ask me.
-- ⚡ Fun fact: I was a bright student once..
+- 💬 If you have anything to Ask me about anything...Linkedin is there
+
 
 <br/>
 <br/>
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 <hr>
 <br>
 <p align="center">
-    <a href="https://nirala96.github.io/Portfolio/" alt="Portfolio"><img width="120px" src="https://www.a2solutions.ae/wp-content/uploads/2015/10/portfolio.png"></a>
+    <a href="https://arunodaykumar.me" alt="Portfolio"><img width="120px" src="https://www.a2solutions.ae/wp-content/uploads/2015/10/portfolio.png"></a>
     <a href="ttps://www.linkedin.com/in/ArunodayKumar/ " alt="Linkedin"><img width="35px" src="linkedin.png"></a>
     <a href="https://drive.google.com/file/d/1bVulZCLqBCx1_bE9Sj_uLMkFhvDpKeT4/view?usp=sharing   " alt="resume"><img width="35px" src="https://cdn2.iconfinder.com/data/icons/business-management-and-teamwork-filled-color/300/163251747Untitled-3-512.png"></a>
     
