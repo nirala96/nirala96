@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-## ⚡ !(Learning)<img src="https://cdn-5e74a325f911c80ca0fe3f0d.closte.com/wp-content/uploads/2020/04/digital-marketing-london-4-1.gif" width="50">
+## ⚡ !Learning
 
 <p align="left">
     
