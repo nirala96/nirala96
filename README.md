@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Data Sciece Projects.
+- 🔭 I’m currently working on Flutter Projects.
 - 🌱 I’m currently learning Data science and Flutter.
 - 👯 I’m looking forward to collaborate on Projects
 - 🥅 2020 Goals: Start contributing in Open source projects (peer pressure)
