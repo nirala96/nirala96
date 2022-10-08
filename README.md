@@ -1,4 +1,4 @@
-### Hi there Folks 👋 Kaisan baa, I am [Arunoday Kumar](https://arunodaykumar.me)<img src="https://media2.giphy.com/media/KB8MHRUq55wjXVwWyl/source.gif" width="50">
+### Hi there Folks 👋 Kaisan baa, I am [Arunoday Kumar](https://arunodaykumar.tech)<img src="https://media2.giphy.com/media/KB8MHRUq55wjXVwWyl/source.gif" width="50">
 <br/>
 <hr>
 
@@ -7,7 +7,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Flutter Projects.
+
 - 🌱 I’m currently learning Golang and Kotlin.
+
 - 👯 I’m looking forward to collaborate on Projects
 - 🥅 2022 Goals: Start contributing in Open source projects (peer pressure)
 - 💬 If you have anything to Ask me about anything...Linkedin is there
@@ -59,7 +61,7 @@ Here are some ideas to get you started:
 <hr>
 <br>
 <p align="center">
-    <a href="https://arunodaykumar.me" alt="Portfolio"><img width="120px" src="https://www.a2solutions.ae/wp-content/uploads/2015/10/portfolio.png"></a>
+    <a href="https://arunodaykumar.tech" alt="Portfolio"><img width="120px" src="https://www.a2solutions.ae/wp-content/uploads/2015/10/portfolio.png"></a>
     <a href="ttps://www.linkedin.com/in/ArunodayKumar/ " alt="Linkedin"><img width="35px" src="linkedin.png"></a>
     <a href="https://drive.google.com/file/d/1bVulZCLqBCx1_bE9Sj_uLMkFhvDpKeT4/view?usp=sharing   " alt="resume"><img width="35px" src="https://cdn2.iconfinder.com/data/icons/business-management-and-teamwork-filled-color/300/163251747Untitled-3-512.png"></a>
     
